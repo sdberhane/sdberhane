@@ -1,5 +1,4 @@
-- Hi, my name is Selassie Berhane. I'm a junior at the University of Pennsylvania studying computer science and economics. I'm interested in software engineering and quantitative development.
-- You can reach me at sberhane@seas.upenn.edu
+- Hi, my name is Selassie Berhane! Reach me at sdberhane@gmail.com
 
 <!---
 sdberhane/sdberhane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
